@@ -25,9 +25,19 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/css/style_1.css",
+              "src/assets/css/animate.css",
+              "src/assets/css/media_query.css",
+              "src/assets/css/owl.carousel.css",
+              "src/assets/css/owl.theme.default.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/jquery.waypoints.min.js",
+              "src/assets/js/main.js",
+              "src/assets/js/modernizr-3.5.0.min.js",
+              "src/assets/js/owl.carousel.min.js"
+            ]
           },
           "configurations": {
             "production": {
